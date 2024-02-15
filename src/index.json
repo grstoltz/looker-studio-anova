@@ -1,0 +1,49 @@
+{
+	"data": [
+		{
+			"id": "concepts",
+			"label": "Concepts",
+			"elements": [
+				{
+					"id": "dimID",
+					"label": "A dimension",
+					"type": "DIMENSION",
+					"options": {
+						"min": 1,
+						"max": 1
+					}
+				},
+				{
+					"id": "decisionID",
+					"label": "Decision Value (T/F)",
+					"type": "DIMENSION",
+					"options": {
+						"min": 1,
+						"max": 1
+					}
+				},
+				{
+					"id": "metricID",
+					"label": "A metric",
+					"type": "METRIC",
+					"options": {
+						"min": 1,
+						"max": 1
+					}
+				},
+
+				{
+					"id": "alphaID",
+					"label": "Alpha",
+					"type": "METRIC",
+					"options": {
+						"min": 1,
+						"max": 1
+					}
+				}
+			]
+		}
+	],
+
+	"style": []
+}

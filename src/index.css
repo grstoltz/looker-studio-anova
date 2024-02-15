@@ -1,0 +1,23 @@
+body {
+	font-family: Roboto;
+}
+
+code {
+	background-color: #fdf6e3;
+	color: #586e75;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+tr {
+	border-bottom: 1pt solid #d1d1d1;
+}
+
+th,
+td {
+	padding: 8px;
+	text-align: left;
+}
